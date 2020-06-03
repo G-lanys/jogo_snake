@@ -1,0 +1,19 @@
+
+body{
+    height: 95vh;
+    width: 215vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-image: url(img/textura.jpg);
+    color: white;
+    border-radius: 20px;    
+}
+canvas{
+    border-radius: 5px;
+  
+}
+
+
