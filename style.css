@@ -1,7 +1,6 @@
-
 body{
     height: 95vh;
-    width: 215vh;
+    width: 95vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,9 +10,22 @@ body{
     color: white;
     border-radius: 20px;    
 }
+
+button {
+    font-family: "Times New Roman";
+    font-size: 24px;
+    color: #00FF00;
+    font-weight: bold;
+    
+    width: 180px;
+    height: 50px;
+    background-color: #006400;
+    border-radius: 16px;  
+    border-color: chartreuse;
+    margin-bottom: 10px;
+  }
+
 canvas{
-    border-radius: 5px;
+    border-radius: 5px;   
   
 }
-
-
